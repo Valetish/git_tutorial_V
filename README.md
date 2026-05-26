@@ -3,6 +3,5 @@
 \# linijka 2
 
 
-
 zmiana od juliana 
 
